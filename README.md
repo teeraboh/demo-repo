@@ -7,3 +7,5 @@ Some Description!
 Watch tutorial on youtube
 
 
+
+Open index.html in your browser
